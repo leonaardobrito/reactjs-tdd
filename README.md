@@ -17,7 +17,9 @@ Impede commits defeituosos:
 
 Converte o teste para JS 
 `npm i -D jest @types/jest ts-jest`
-``
+
+Simula valores de URL, login, etc
+`npm i -D faker $types/faker`
 ``
 ``
 ``
