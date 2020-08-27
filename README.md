@@ -8,3 +8,12 @@ iniciar o package.json
 Não permite commit fora do padrão:
 `npm i -D git-commit-msg-linter`
 
+`npm i -D typescript @types/node`
+
+``
+``
+``
+``
+``
+``
+``
