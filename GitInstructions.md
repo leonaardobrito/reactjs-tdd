@@ -45,4 +45,5 @@ test:
 com essas palavras, pode-se gerar estatísticas com o comando:
 `git count fix` ou qualquer outro tipo
 
- 
+ Não permite commit fora do padrão:
+`npm i -D git-commit-msg-linter`
