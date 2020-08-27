@@ -14,7 +14,9 @@ Não permite commit fora do padrão:
 
 Impede commits defeituosos:
 `npm i -D lint-staged husky`
-``
+
+Converte o teste para JS 
+`npm i -D jest @types/jest ts-jest`
 ``
 ``
 ``
