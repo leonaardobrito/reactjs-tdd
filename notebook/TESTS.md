@@ -1,0 +1,3 @@
+# TESTES
+
+`npm test`
